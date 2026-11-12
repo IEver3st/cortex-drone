@@ -1,5 +1,7 @@
 # Cortex Drone
 
+[![Cortex Drone](https://raw.githubusercontent.com/IEver3st/gsd-tebex-media/main/heroes/drone.jpg)](https://gsdmods.com/scripts/cortex-drone?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone)
+
 **[Product page](https://gsdmods.com/scripts/cortex-drone?utm_source=github&utm_medium=social&utm_campaign=cortex-drone-launch)** · [All GSD scripts](https://gsdmods.com/scripts?utm_source=github&utm_medium=social&utm_campaign=cortex-drone-launch) · [Docs](https://gsdmods.com/docs?utm_source=github&utm_medium=social&utm_campaign=cortex-drone-launch) · [Discord](https://discord.com/invite/gsdmods) · [Download](https://github.com/IEver3st/cortex-drone/releases/latest)
 
 Free, by [GSD Modifications](https://gsdmods.com/?utm_source=github&utm_medium=social&utm_campaign=cortex-drone-launch). This repository is the public release build: the files a server runs, nothing else.
@@ -215,6 +217,24 @@ Drone model by Grayson for GSD Mods.
 ## Download and support
 
 Grab the latest zip from [Releases](https://github.com/IEver3st/cortex-drone/releases/latest) and keep the folder named `cortex-drone`. The same script is also free on the [GSD store](https://gsdmods.com/scripts/cortex-drone?utm_source=github&utm_medium=social&utm_campaign=cortex-drone-launch), delivered through your Cfx.re portal. Questions and bug reports go to the [GSD Discord](https://discord.com/invite/gsdmods).
+
+## More from Cortex
+
+[![Cortex PolCam following a car from the police helicopter camera](https://raw.githubusercontent.com/IEver3st/gsd-tebex-media/main/forum/polcam/tracking-v2.webp)](https://gsdmods.com/scripts/cortex-polcam?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone)
+
+Cortex Drone is free and stays free. The paid Cortex scripts run on the same Cortex Library and pay for the free ones.
+
+| Police | Interface | Driving and freeroam |
+| --- | --- | --- |
+| [PolCam](https://gsdmods.com/scripts/cortex-polcam?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): FLIR helicopter camera with target tracking | [HUD](https://gsdmods.com/scripts/cortex-hud?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): vitals, vehicle, aircraft, weapon and radar | [Handling](https://gsdmods.com/scripts/cortex-handling?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): tune handling from the driver's seat |
+| [Arges](https://gsdmods.com/scripts/cortex-arges?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): remote spotlight for patrol cars | [Chat](https://gsdmods.com/scripts/cortex-chat?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): chat replacement with roleplay actions | [Rewind](https://gsdmods.com/scripts/cortex-rewind?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): rewind a missed corner or a bad landing |
+| [Radio](https://gsdmods.com/scripts/cortex-radio?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): handheld radio for pma-voice | [Spawn](https://gsdmods.com/scripts/cortex-spawn?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): pick your spawn from a live view of the city | [Emote Studio](https://gsdmods.com/scripts/cortex-emote-studio?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): preview, fit and pair emotes |
+| [Flashlight](https://gsdmods.com/scripts/cortex-flashlight?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): weapon, vest and UV forensic torches | [Multicharacter](https://gsdmods.com/scripts/cortex-multicharacter?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): character selection and creation for Qbox | |
+| [Binoculars](https://gsdmods.com/scripts/cortex-binoculars?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): zoom, rangefinder, night and thermal vision | [Loading Screen](https://gsdmods.com/scripts/cortex-loading-screen?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): cinematic arrival screen | |
+
+**[Browse every Cortex script](https://gsdmods.com/scripts?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone)** · [LEO Kit](https://gsdmods.com/scripts/cortex-leo-kit?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): PolCam, Arges, Binoculars and Flashlight in one purchase · [All-Access](https://gsdmods.com/scripts/cortex-all-access?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone): every paid script for one monthly price
+
+Also free: [Admin](https://gsdmods.com/scripts/cortex-admin?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone) · [Drone Races](https://gsdmods.com/scripts/cortex-drone-races?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone) · [Gunsmith](https://gsdmods.com/scripts/cortex-gunsmith?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone) · [Megaphone](https://gsdmods.com/scripts/cortex-megaphone?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone) · [Minigames](https://gsdmods.com/scripts/cortex-minigames?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone) · [Thrusters](https://gsdmods.com/scripts/cortex-thrusters?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone) · [Library](https://gsdmods.com/scripts/cortex-library?utm_source=github&utm_medium=readme&utm_campaign=cortex-drone)
 
 ## License
 
